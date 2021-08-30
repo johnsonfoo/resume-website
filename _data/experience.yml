@@ -1,0 +1,28 @@
+# Jobs
+- company: Shopee
+  position: Software Engineer Intern (Big Data)
+  duration: June 2021 &mdash; Aug 2021
+  summary: |
+        An 3 month long internship where I was learnt about HDFS and Presto architecture and their
+        use cases inside Shopee’s data infrastructure. I managed to fix a HDFS Router bug on production 
+        where Router displayed wrong metadata information to clients. I also worked with teammates on
+        reducing the max read time of Presto Worker on Datanode by adding load awareness on Namenode
+        and caching of slow Datanodes on Presto Worker.
+
+- company: SeaMoney
+  position: Data Analytics Intern
+  duration: Jan 2021 &mdash; May 2021
+  summary: |
+        An 5 month long internship where I was tasked with generate data insights and business 
+        performance reports for crossfunctional teams (Business Intelligence & Business Development).
+        I conducted deep dives into customer behaviour by using SQL for analysis.
+        I also improved visibility for operations team in Indonesia by providing weekly analytics
+        updates on debt recovery rate performance.
+
+- company: Singapore Airlines
+  position: Data Science Intern
+  duration:  Jun 2020 &mdash; Jul 2020
+  summary: |
+        A 2 month long internship where I integrated a internal text detection model and open sourced
+        OCR model with Python to read text in passport images. I also built a Flask web app as an interface 
+        for the integrated model to showcase a passport scanner prototype.
